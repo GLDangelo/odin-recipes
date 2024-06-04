@@ -1,0 +1,1 @@
+The website will consist of a main index page which contain links to a few recipes, their ingredients, and the steps on how to make them. This is to practice the few things learned about HTML so far. 
